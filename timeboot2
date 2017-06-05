@@ -1,4 +1,4 @@
-('[0.000000 < 0.000000 >] Linux version 4.10.11 (root@localhost.localdomain) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC) ) #2 SMP Wed Apr 19 14:18:35 CST 2017\n',)
+('[0.000000 < 0.000000 >] Linux version 3.10.0(root@localhost.localdomain) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC) ) #2 SMP Wed Apr 19 14:18:35 CST 2017\n',)
 ('[0.000000 < 0.000000 >] Command line: BOOT_IMAGE=/vmlinuz-4.10.11 root=/dev/mapper/cl-root ro crashkernel=auto rd.lvm.lv=cl/root rd.lvm.lv=cl/swap rhgb quiet LANG=en_US.UTF-8\n',)
 ('[0.000000 < 0.000000 >] Disabled fast string operations\n',)
 ("[0.000000 < 0.000000 >] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'\n",)
